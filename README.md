@@ -21,6 +21,8 @@ Born 2012 Jun 1st
 **~~Isn't bad boy qwq~~**  
   
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yzenwu&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yzenwu&theme=dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yzenwu&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 
