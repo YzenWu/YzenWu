@@ -22,7 +22,21 @@ Born 2012 Jun 1st
   
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yzenwu&theme=dark&hide_border=true)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzenwu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yzenwu&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=yzenwu&theme=tokyonight&no-frame=true&no-bg=true)
+
+  
+  
 
 
+  
+  
+
+
+  
+  
+
+
+~~我会一直视奸你👁️~~
