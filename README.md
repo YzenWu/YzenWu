@@ -16,4 +16,11 @@ Discord @Gloutos
 Telegram [@YzenWu](https://yzenwu.t.me)
 
 
-![streak](https://streak-stats.demolab.com/?user=yzenwu&theme=dark)
+Born 2012 Jun 1st
+"Yzen" is transliteration from 奕辰(YiChen)
+**~~Isn't bad boy qwq~~**
+
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yzenwu&theme=tokyonight&hide_border=true)
+
+
