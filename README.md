@@ -18,22 +18,7 @@ Telegram [@YzenWu](https://yzenwu.t.me)
 
 Born 2012 Jun 1st  
 "Yzen" is transliteration from 奕辰(YiChen)  
-**~~Isn't bad boy qwq~~**  
+**~~I AM NOT BAD BOY TvT~~**  
   
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yzenwu&theme=dark&hide_border=true)
-  
-  
-  
-  
-
-
-  
-  
-
-
-  
-  
-
-
-~~我会一直视奸你👁️~~
