@@ -12,7 +12,7 @@ Most Understand for Javascript, CSharp,
 
 Contact:  
 E-Mail: [yzenwu@tuta.io](mailto:yzenwu@tuta.io)  
-Discord @Gloutos
+Discord @Gloutos  
 Telegram [@YzenWu](https://yzenwu.t.me)
 
 
