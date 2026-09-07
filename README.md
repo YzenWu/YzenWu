@@ -11,9 +11,9 @@ Most Understand for Javascript, CSharp,
 ~and Shell~
 
 Contact:  
-E-Mail: [yzenwu@tuta.io](mailto:yzenwu@tuta.io)  
-Discord @Gloutos  
-Telegram [@YzenWu](https://yzenwu.t.me)
+E-Mail: [yzenwu@tuta.io](mailto:yzenwu@tuta.io)    
+Telegram [@YzenWu](https://yzenwu.t.me)  
+Instagram [@th.gloutos](https://instagram.com/th.gloutos)
 
 
 Born 2012 Jun 1st  
