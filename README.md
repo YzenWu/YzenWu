@@ -18,7 +18,7 @@ Instagram [@th.gloutos](https://instagram.com/th.gloutos)
 
 Born 2012 Jun 1st  
 "Yzen" is transliteration from 奕辰(YiChen)  
-**~~I AM NOT BAD BOY TvT~~**  
+**~~I AM NOT BAD BOY TwT~~**  
   
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yzenwu&theme=dark&hide_border=true)
